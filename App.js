@@ -1,8 +1,6 @@
 import React, { useState, Component } from 'react';
 import { StyleSheet, Text, View, TextInput, TouchableOpacity, Clipboard, Keyboard, TouchableWithoutFeedback, Alert, KeyboardAvoidingView, Platform } from 'react-native';
 
-
-//https://cutt.ly/api/api.php?key=[API_KEY]&short=[URL_YOU_WANT_SHORTEN]&name=[CUSTOM_URL_ALIAS]
 export default function App() {
   const [url, setUrl] = useState('');
   const [name, setName] = useState('');
