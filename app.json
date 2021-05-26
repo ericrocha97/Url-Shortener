@@ -17,13 +17,15 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "dev.ericrocha.urlshortener"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#f8f8f8"
-      }
+      },
+      "package": "dev.ericrocha.urlshortener"
     }
   }
 }
