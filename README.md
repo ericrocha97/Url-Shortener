@@ -48,7 +48,7 @@ $ expo start
 App to shorten links with the [cutt.ly](https://cutt.ly/) api 🌐
 
 This is a project developed during the video lesson **[Mão no código #1](https://www.youtube.com/watch?v=Ur_RViLk16U)** presented by
-**[Sujeito programador](https://sujeitoprogramador.com/fabricadeaplicativos/)**.
+**[Sujeito programador](https://sujeitoprogramador.com/)**.
 
 ---
 
